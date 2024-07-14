@@ -1,0 +1,14 @@
+﻿Topic,Description,Frontend,Backend,DBMS
+Topic 1,Description 1,"React,CSS",Java,SQL Lite
+Topic 2,Description 2,"CSS,HTML",Python,MySQL
+Topic 3,Description 3,"React,Vue",Python,MySQL
+Topic 4,Description 4,"CSS,SASS",Java,SQL Lite
+topic 5,Description 5,"css,HTML",Python,MySQL
+E-commerceWebsite,Onlineshoppingplatformforcustomerstobuyproducts,"React,CSS,HTML","Node.js,Express",MongoDB
+OnlineSurveyTool,Onlinesurveyandfeedbackcollectionplatform,"React,CSS",Java,SQL Lite
+OnlineEventManagement,Eventmanagementandticketingplatform,"React,CSS",Java,SQL Lite
+SocialMediaAnalytics,Socialmediaanalyticsandinsightsplatform,"React,CSS",Java,SQL Lite
+OnlineProjectManagement,Projectmanagementandcollaborationplatform,"React,CSS",Java,SQL Lite
+OnlineAccountingSoftware,Accountingandfinancialmanagementplatform,"React,CSS",Java,SQL Lite
+OnlineCustomerSupport,Customersupportandticketingplatform,"React,CSS",Java,SQL Lite
+OnlineDigitalMarketing,DigitalmarketingandSEOplatform,"React,CSS",Java,SQL Lite
